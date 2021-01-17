@@ -12,7 +12,7 @@ package main
 import (
 	"fmt"
 
-	counter "github.com/edge/utils/pkg/atomiccounter"
+	counter "github.com/edge/atomiccounter"
 )
 
 func main() {
